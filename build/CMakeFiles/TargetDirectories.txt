@@ -1,0 +1,3 @@
+/home/ut/Desktop/3.1/C++/TD5/build/CMakeFiles/rebuild_cache.dir
+/home/ut/Desktop/3.1/C++/TD5/build/CMakeFiles/edit_cache.dir
+/home/ut/Desktop/3.1/C++/TD5/build/CMakeFiles/main_exe.dir
